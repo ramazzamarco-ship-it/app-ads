@@ -1,0 +1,43 @@
+# Privacy Policy for Anagram
+
+This Privacy Policy describes how your personal information is handled in the Anagram app.
+
+**Last Updated: 24 May 2024**
+
+## We Do Not Collect Personal Information
+
+We do not collect, use, save, or have access to any of your personal data recorded in the Anagram app.
+
+Individual settings related to the Anagram app are not personal and are stored only on your device.
+
+## Third-Party Services & Advertising
+
+Our app uses Google AdMob for advertising. AdMob is a third-party service provided by Google.
+
+Google AdMob may collect and use data for advertising purposes. This may include, but is not limited to, data such as your device's advertising ID, IP address, and information about your interaction with ads. This information is used to provide personalized advertising.
+
+For more information on how Google collects and uses your data, please review Google's Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+Our app also uses Google Play Services. Their Privacy Policy can be found here: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+## Your Rights Under the GDPR
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+Since we do not collect any personal data ourselves, any requests regarding your data should be directed towards the third-party services we use (Google).
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, you can contact us:
+
+*   By email: **ramazzamarco@gmail.com**
