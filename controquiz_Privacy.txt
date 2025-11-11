@@ -4,9 +4,12 @@ This Privacy Policy describes how your personal information is handled in the Co
 
 **Last Updated: 24 May 2024**
 
-## We Do Not Collect Personal Information
+## Information We Collect
 
-We do not collect, use, save, or have access to any of your personal data recorded in the ControQuiz app.
+To provide features like the leaderboard, we collect and store the following information:
+*   **Nickname:** When you decide to save a record, we ask for a nickname. This nickname is chosen by you and is stored on our servers to be displayed in the public leaderboard. It is also stored locally on your device for your convenience. We recommend that you do not use your real name as your nickname.
+
+We do not collect other personal information like your name or email address.
 
 Individual settings related to the ControQuiz app are not personal and are stored only on your device.
 
@@ -22,9 +25,12 @@ Our app also uses Google Play Services. Their Privacy Policy can be found here: 
 
 ## Your Rights Under the GDPR
 
-If you are a resident of the European Economic Area (EEA), you have certain data protection rights. We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights.
 
-Since we do not collect any personal data ourselves, any requests regarding your data should be directed towards the third-party services we use (Google).
+*   **Access and Update:** You can view and update your nickname from within the app's "Records & Profile" screen.
+*   **Deletion:** If you wish to have your nickname and associated records removed from our leaderboard, please contact us at **ramazzamarco@gmail.com**.
+
+For data collected by our third-party services (Google AdMob, Google Play Services), any requests regarding your data should be directed towards them.
 
 ## Children’s Privacy
 
