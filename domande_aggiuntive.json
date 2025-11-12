@@ -1,0 +1,731 @@
+[
+  {
+    "ID": "1001",
+    "Argomento": "Arte",
+    "Domanda": "“Viva la mamma” di Edoardo Bennato è una canzone degli anni …",
+    "Opzione A": "90",
+    "Opzione B": "80",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1002",
+    "Argomento": "Arte",
+    "Domanda": "Chi ha reso famoso il \"\"Sarchiapone\"\"?",
+    "Opzione A": "Walter Chiari",
+    "Opzione B": "Gino Bramieri",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1003",
+    "Argomento": "Arte",
+    "Domanda": "E' a grandezza naturale il David di …",
+    "Opzione A": "Michelangelo",
+    "Opzione B": "Donatello",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1004",
+    "Argomento": "Arte",
+    "Domanda": "Elodie ha vinto \"\"Amici\"\"?",
+    "Opzione A": "Sì",
+    "Opzione B": "No",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1005",
+    "Argomento": "Arte",
+    "Domanda": "Ha vinto \"\"Amici\"\" nell'edizione del 2009/2010 …",
+    "Opzione A": "Stefano De Martino",
+    "Opzione B": "Emma Marrone",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1006",
+    "Argomento": "Arte",
+    "Domanda": "Il commissario Basettoni di Topolino ha i baffi?",
+    "Opzione A": "Sì",
+    "Opzione B": "No",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1007",
+    "Argomento": "Arte",
+    "Domanda": "in \"\"Una vita da mediano \"\" di Ligabue che calciatore viene citato?",
+    "Opzione A": "Oriali",
+    "Opzione B": "Baresi",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1008",
+    "Argomento": "Arte",
+    "Domanda": "In che anno è nata la cantante Mina?",
+    "Opzione A": "1940",
+    "Opzione B": "1945",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1009",
+    "Argomento": "Arte",
+    "Domanda": "L'isosa dei Ciclopi dell'Odissea viene spesso collegata …",
+    "Opzione A": "alla Sicilia",
+    "Opzione B": "a Malta",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1010",
+    "Argomento": "Arte",
+    "Domanda": "Lo Scrondo era un personaggio televisivo di colore …",
+    "Opzione A": "Verde",
+    "Opzione B": "Giallo",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1011",
+    "Argomento": "Arte",
+    "Domanda": "Lupo Alberto è un fumetto di colore …",
+    "Opzione A": "Azzurro",
+    "Opzione B": "Marrone",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1012",
+    "Argomento": "Arte",
+    "Domanda": "Quante edizioni di Sanremo ha condotto Pippo Baudo?",
+    "Opzione A": "13",
+    "Opzione B": "8",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1013",
+    "Argomento": "Arte",
+    "Domanda": "Quanti caffè cantava Alex Britti nella sua canzone?",
+    "Opzione A": "10,000",
+    "Opzione B": "7,000",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1014",
+    "Argomento": "Arte",
+    "Domanda": "Scrisse \"\"I 3 Moschettieri\"\" Alexandre Dumas …",
+    "Opzione A": "Padre",
+    "Opzione B": "Figlio",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1015",
+    "Argomento": "Arte",
+    "Domanda": "Valerio Scanu non ha vinto …",
+    "Opzione A": "Sanremo",
+    "Opzione B": "Amici",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1016",
+    "Argomento": "Arte",
+    "Domanda": "Will Smith ha debuttato come …",
+    "Opzione A": "Rapper",
+    "Opzione B": "Attore",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1017",
+    "Argomento": "Geografia",
+    "Domanda": "Caracas è la capitale …",
+    "Opzione A": "della Colombia",
+    "Opzione B": "del Venezuela",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1018",
+    "Argomento": "Geografia",
+    "Domanda": "Il Kilimangiaro si trova in …",
+    "Opzione A": "Tanzania",
+    "Opzione B": "Kenia",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1019",
+    "Argomento": "Geografia",
+    "Domanda": "Il Monte più alto del Nord America è il monte …",
+    "Opzione A": "Elbert",
+    "Opzione B": "Denali",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1020",
+    "Argomento": "Geografia",
+    "Domanda": "Il parco del Prater si trova in …",
+    "Opzione A": "Germania",
+    "Opzione B": "Austria",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1021",
+    "Argomento": "Geografia",
+    "Domanda": "Il Rio delle Amazzoni termina con un …",
+    "Opzione A": "Delta",
+    "Opzione B": "Estuario",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1022",
+    "Argomento": "Geografia",
+    "Domanda": "In Sardegna ci sono le vipere?",
+    "Opzione A": "Sì",
+    "Opzione B": "No",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1023",
+    "Argomento": "Geografia",
+    "Domanda": "La catena montuosa delle Ande è lunga circa …",
+    "Opzione A": "5.000 Km",
+    "Opzione B": "7.000 km",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1024",
+    "Argomento": "Geografia",
+    "Domanda": "La prigione del Pratello si trova a …",
+    "Opzione A": "Milano",
+    "Opzione B": "Bologna",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1025",
+    "Argomento": "Geografia",
+    "Domanda": "La Val di Non è in provincia di …",
+    "Opzione A": "Bolzano",
+    "Opzione B": "Trento",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1026",
+    "Argomento": "Geografia",
+    "Domanda": "L'Aconcagua in Argentina è un …",
+    "Opzione A": "Monte",
+    "Opzione B": "Fiume",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1027",
+    "Argomento": "Geografia",
+    "Domanda": "Le Langhe sono una zona collinare …",
+    "Opzione A": "della Lombardia",
+    "Opzione B": "del Piemonte",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1028",
+    "Argomento": "Geografia",
+    "Domanda": "Lo stato più a nord dell'Africa è …",
+    "Opzione A": "la Tunisia",
+    "Opzione B": "il Marocco",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1029",
+    "Argomento": "Matematica",
+    "Domanda": "0,1,1,2,3,5,8,13 - Questa successione di numeri è detta Sequenza di …",
+    "Opzione A": "Marcucci",
+    "Opzione B": "Fibonacci",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1030",
+    "Argomento": "Matematica",
+    "Domanda": "Il teorema di Euclide si riferisce ai triangioli …",
+    "Opzione A": "Isosceli",
+    "Opzione B": "Rettangoli",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1031",
+    "Argomento": "Scienza",
+    "Domanda": "Ci sono meno ore di luce in …",
+    "Opzione A": "Estate",
+    "Opzione B": "Inverno",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1032",
+    "Argomento": "Scienza",
+    "Domanda": "Cosa è la MOC?",
+    "Opzione A": "Agente Atmosferico",
+    "Opzione B": "Esame Diagnostico",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1033",
+    "Argomento": "Scienza",
+    "Domanda": "E' un serpente velenoso il …",
+    "Opzione A": " Biacco",
+    "Opzione B": "Marasso",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1034",
+    "Argomento": "Scienza",
+    "Domanda": "Il Castoro vive in …",
+    "Opzione A": "Africa",
+    "Opzione B": "America",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1035",
+    "Argomento": "Scienza",
+    "Domanda": "Il delfino è un …",
+    "Opzione A": "Pesce",
+    "Opzione B": "Mammifero",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1036",
+    "Argomento": "Scienza",
+    "Domanda": "Il fenomeno chiamato effetto Mpemba si riferisce …",
+    "Opzione A": "all'Acqua",
+    "Opzione B": "al Vetro",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1037",
+    "Argomento": "Scienza",
+    "Domanda": "Il Mamba verde è un serpente velenoso?",
+    "Opzione A": "No",
+    "Opzione B": "Sì",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1038",
+    "Argomento": "Scienza",
+    "Domanda": "Il Narvalo si identifica per il suo …",
+    "Opzione A": "Corno",
+    "Opzione B": "Colore",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1039",
+    "Argomento": "Scienza",
+    "Domanda": "Il roditore più grande al mondo è il …",
+    "Opzione A": "Capibara",
+    "Opzione B": "Castoro",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1040",
+    "Argomento": "Scienza",
+    "Domanda": "Il Tartufo è un …",
+    "Opzione A": "Fungo",
+    "Opzione B": "Tubero",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1041",
+    "Argomento": "Scienza",
+    "Domanda": "La Pleura riveste …",
+    "Opzione A": "il Cuore",
+    "Opzione B": "i Polmoni",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1042",
+    "Argomento": "Scienza",
+    "Domanda": "La Trombetta del morto è un fungo…",
+    "Opzione A": "Velenoso",
+    "Opzione B": "Commestibile",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1043",
+    "Argomento": "Scienza",
+    "Domanda": "L'acqua ghiaccia prima se …",
+    "Opzione A": "Fredda",
+    "Opzione B": "Calda",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1044",
+    "Argomento": "Scienza",
+    "Domanda": "L'Aurora Boreale può essere di colore …",
+    "Opzione A": "Rosso",
+    "Opzione B": "Giallo",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1045",
+    "Argomento": "Scienza",
+    "Domanda": "L'Equinozio si verifica quando il Sole è sopra …",
+    "Opzione A": "all'Equatore",
+    "Opzione B": "al Polo",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1046",
+    "Argomento": "Scienza",
+    "Domanda": "Nel Mar Morto ci sono dei pesci?",
+    "Opzione A": "Sì",
+    "Opzione B": "No",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1047",
+    "Argomento": "Scienza",
+    "Domanda": "Nella gobba del Dromedario c'è …",
+    "Opzione A": "Acqua",
+    "Opzione B": "Grasso",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1048",
+    "Argomento": "Scienza",
+    "Domanda": "Quale è il fungo più velenoso?",
+    "Opzione A": "Amanita",
+    "Opzione B": "Boletus",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1049",
+    "Argomento": "Scienza",
+    "Domanda": "Quante paia di zampe ha la Scutigera?",
+    "Opzione A": "15",
+    "Opzione B": "30",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1050",
+    "Argomento": "Scienza",
+    "Domanda": "Quante volte all'anno si verifica un Solstizio?",
+    "Opzione A": "2",
+    "Opzione B": "4",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1051",
+    "Argomento": "Scienza",
+    "Domanda": "Quanti denti Molari ha un uomo adulto?",
+    "Opzione A": "8",
+    "Opzione B": "12",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1052",
+    "Argomento": "Scienza",
+    "Domanda": "Quanti sono i denti da latte?",
+    "Opzione A": "20",
+    "Opzione B": "22",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1053",
+    "Argomento": "Scienza",
+    "Domanda": "Un \"\"Bug\"\" in informatica è un …",
+    "Opzione A": "Errore",
+    "Opzione B": "Aggiornamento",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1054",
+    "Argomento": "Scienza",
+    "Domanda": "Un Ettolitro corrisponde a …",
+    "Opzione A": "10 litri",
+    "Opzione B": "100 litri",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1055",
+    "Argomento": "Sport",
+    "Domanda": "All'interno di una pallina da Baseball c'è un nucleo di …",
+    "Opzione A": "Sughero",
+    "Opzione B": "Plastica",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1056",
+    "Argomento": "Sport",
+    "Domanda": "Chi vinse il primo Giro d'Italia?",
+    "Opzione A": "Ganna",
+    "Opzione B": "Bartali",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1057",
+    "Argomento": "Sport",
+    "Domanda": "Con quale numero correva Valentino Rossi?",
+    "Opzione A": "54",
+    "Opzione B": "46",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1058",
+    "Argomento": "Sport",
+    "Domanda": "Gli Springboks sono la nazionale di rugby  …",
+    "Opzione A": "del Sud Africa",
+    "Opzione B": "dell'Australia",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1059",
+    "Argomento": "Sport",
+    "Domanda": "Helkier e Brieghel hanno giocato assieme in Italia nel …",
+    "Opzione A": "Verona",
+    "Opzione B": "Ascoli",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1060",
+    "Argomento": "Sport",
+    "Domanda": "Jacques Villeneuve ha mai vinto un Mondiale di Formula 1?",
+    "Opzione A": "Sì",
+    "Opzione B": "No",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1061",
+    "Argomento": "Sport",
+    "Domanda": "Jannik Sinner è nato in Val …",
+    "Opzione A": "Gardena",
+    "Opzione B": "Pusteria",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1062",
+    "Argomento": "Sport",
+    "Domanda": "Paolo Rossi ha giocato nel …",
+    "Opzione A": "Perugia",
+    "Opzione B": "Inter",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1063",
+    "Argomento": "Sport",
+    "Domanda": "Quanti sono gli attrezzi della Ginnastica Ritmica?",
+    "Opzione A": "4",
+    "Opzione B": "5",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1064",
+    "Argomento": "Storia",
+    "Domanda": "Da che porto partì il Titanic?",
+    "Opzione A": "Southampton",
+    "Opzione B": "Liverpool",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1065",
+    "Argomento": "Storia",
+    "Domanda": "Da dove partì Cristoforo Colombo?",
+    "Opzione A": "Italia",
+    "Opzione B": "Spagna",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1066",
+    "Argomento": "Storia",
+    "Domanda": "Era una Repubblica Marinara …",
+    "Opzione A": "Pisa",
+    "Opzione B": "Livorno",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1067",
+    "Argomento": "Storia",
+    "Domanda": "Il Vallo di Adriano si trovava in …",
+    "Opzione A": "Normandia",
+    "Opzione B": "Bretagna",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1068",
+    "Argomento": "Storia",
+    "Domanda": "In che anno in Italia votarono per la prima volta le donne?",
+    "Opzione A": "1946",
+    "Opzione B": "1954",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1069",
+    "Argomento": "Storia",
+    "Domanda": "In che anno l'Inghilterra è uscita dalla UE?",
+    "Opzione A": "2018",
+    "Opzione B": "2020",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1070",
+    "Argomento": "Storia",
+    "Domanda": "Lo Pterosauro era un dinosauro?",
+    "Opzione A": "Sì",
+    "Opzione B": "No",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1071",
+    "Argomento": "Storia",
+    "Domanda": "Lo Spinosauro era un dinosauro …",
+    "Opzione A": "Carnivoro",
+    "Opzione B": "Erbivoro",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1072",
+    "Argomento": "Storia",
+    "Domanda": "Sullo stemma della città di Pisa c'è …",
+    "Opzione A": "una Croce",
+    "Opzione B": "un Cerchio",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1073",
+    "Argomento": "Varie",
+    "Domanda": "E' famoso il tartufo pregiato di …",
+    "Opzione A": "Tramonto",
+    "Opzione B": "Alba",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1074",
+    "Argomento": "Varie",
+    "Domanda": "E' un linguaggio di programmazione …",
+    "Opzione A": "Oracle",
+    "Opzione B": "Cobol",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1075",
+    "Argomento": "Varie",
+    "Domanda": "La \"\"A\"\" dell'acronimo TAR significa?",
+    "Opzione A": "Amministrativo",
+    "Opzione B": "Attuativo",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1076",
+    "Argomento": "Varie",
+    "Domanda": "L'animale più pericoloso dell'Africa è …",
+    "Opzione A": "l'Ippopotamo",
+    "Opzione B": "il Coccodrillo",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1077",
+    "Argomento": "Varie",
+    "Domanda": "Le Emoji sono piccole …",
+    "Opzione A": "Immagini",
+    "Opzione B": "Faccine",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1078",
+    "Argomento": "Varie",
+    "Domanda": "Non è una contrada di Siena …",
+    "Opzione A": "Riccio",
+    "Opzione B": "Nicchio",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1079",
+    "Argomento": "Varie",
+    "Domanda": "Quante stelle ci sono nella bandiera dell'Unione Europea?",
+    "Opzione A": "12",
+    "Opzione B": "15",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1080",
+    "Argomento": "Varie",
+    "Domanda": "Roberto Bolle è un famoso …",
+    "Opzione A": "Ballerino",
+    "Opzione B": "Giornalista",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1081",
+    "Argomento": "Geografia",
+    "Domanda": "Si trova in alta montagna …",
+    "Opzione A": "il Maso",
+    "Opzione B": "la Malga",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  }
+]
