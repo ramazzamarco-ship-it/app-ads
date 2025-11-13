@@ -727,5 +727,14 @@
     "Opzione B": "la Malga",
     "Risposta Corretta": "B",
     "Livello": "Alto"
+  },
+  {
+    "ID": "795",
+    "Argomento": "Storia",
+    "Domanda": "Quanti anni dura un Lustro?",
+    "Opzione A": "5",
+    "Opzione B": "10",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
   }
 ]
