@@ -1,43 +1,31 @@
-# Privacy Policy for Anagram
-
-This Privacy Policy describes how your personal information is handled in the Anagram app.
-
-**Last Updated: 24 May 2024**
-
-## We Do Not Collect Personal Information
-
-We do not collect, use, save, or have access to any of your personal data recorded in the Anagram app.
-
-Individual settings related to the Anagram app are not personal and are stored only on your device.
-
-## Third-Party Services & Advertising
-
-Our app uses Google AdMob for advertising. AdMob is a third-party service provided by Google.
-
-Google AdMob may collect and use data for advertising purposes. This may include, but is not limited to, data such as your device's advertising ID, IP address, and information about your interaction with ads. This information is used to provide personalized advertising.
-
-For more information on how Google collects and uses your data, please review Google's Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
-
-Our app also uses Google Play Services. Their Privacy Policy can be found here: [https://policies.google.com/privacy](https://policies.google.com/privacy)
-
-## Your Rights Under the GDPR
-
-If you are a resident of the European Economic Area (EEA), you have certain data protection rights. We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
-
-Since we do not collect any personal data ourselves, any requests regarding your data should be directed towards the third-party services we use (Google).
-
-## Children’s Privacy
-
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
-
-## Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, you can contact us:
-
-*   By email: **ramazzamarco@gmail.com**
+Informativa sulla Privacy per Anagram
+Ultimo aggiornamento: 27 Maggio 2024
+La tua privacy è importante per noi. Questa Informativa sulla Privacy descrive come vengono gestite le informazioni nell'app Anagram.
+Non Raccogliamo Informazioni Personali
+L'app Anagram è progettata per rispettare la tua privacy.
+Non raccogliamo, utilizziamo, salviamo né abbiamo accesso a nessun dato personale che inserisci o che viene generato all'interno dell'app.
+Le impostazioni individuali relative all'app (come i dizionari personalizzati) sono memorizzate esclusivamente sul tuo dispositivo.
+Servizi di Terze Parti e Pubblicità (Google AdMob)Per sostenere lo sviluppo dell'app, utilizziamo Google AdMob, un servizio di pubblicità fornito da Google Inc., per mostrare annunci.
+Per fornire annunci pertinenti e personalizzati, Google AdMob raccoglie e condivide alcuni dati con Google.
+In base alle dichiarazioni fornite a Google Play, questi dati includono:
+•Posizione approssimativa: Ottenuta tramite l'indirizzo IP, per mostrare pubblicità rilevanti a livello geografico.
+•ID dispositivo o altri ID: Come l'ID pubblicitario del dispositivo (Advertising ID), utilizzato per la personalizzazione degli annunci e per finalità di analisi.
+•Interazioni con gli annunci e dati di diagnostica: Informazioni su come interagisci con gli annunci e dati per monitorare la stabilità dell'app e prevenire arresti anomali.Questi dati vengono raccolti e condivisi per le seguenti finalità:
+•Pubblicità o marketing
+•Analisi
+•Personalizzazione
+•Prevenzione di attività fraudolente, sicurezza e conformità
+Per maggiori dettagli su come Google gestisce i dati, ti invitiamo a consultare le Norme sulla privacy di Google: https://policies.google.com/privacy
+Gestione delle Preferenze e Consenso
+In conformità con le normative vigenti (come il GDPR), l'app richiede il tuo consenso per la raccolta dei dati a fini pubblicitari tramite il modulo di consenso di Google (User Messaging Platform).
+Puoi modificare le tue preferenze sulla privacy in qualsiasi momento accedendo alla schermata "Aiuto" all'interno dell'app e selezionando l'opzione per gestire le impostazioni sulla privacy.
+Inoltre, puoi gestire l'ID pubblicitario e la personalizzazione degli annunci direttamente dalle impostazioni del tuo dispositivo Android.
+Privacy dei Minori
+I nostri servizi non si rivolgono a persone di età inferiore ai 13 anni. 
+Non raccogliamo consapevolmente informazioni di identificazione personale da minori di 13 anni.
+Modifiche a questa Informativa sulla PrivacyPotremmo aggiornare la nostra Informativa sulla Privacy periodicamente. 
+Ti informeremo di eventuali modifiche pubblicando la nuova Informativa sulla Privacy su questa pagina. 
+Si consiglia di consultare periodicamente questa pagina per verificare eventuali cambiamenti.
+Contatti
+Se hai domande su questa Informativa sulla Privacy, puoi contattarci:
+•Via email: ramazzamarco@gmail.com
