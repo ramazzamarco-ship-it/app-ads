@@ -484,5 +484,230 @@
     "Opzione B": "Bigoli",
     "Risposta Corretta": "A",
     "Livello": "Alto"
+  },
+  {
+    "ID": "1155",
+    "Argomento": "Varie",
+    "Domanda": "E' vietato guidare senza …",
+    "Opzione A": "Cinture",
+    "Opzione B": "Bretelle",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1156",
+    "Argomento": "Scienza",
+    "Domanda": "Per coagulare il sangue servono le …",
+    "Opzione A": "Piastrine",
+    "Opzione B": "Piastrelle",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1157",
+    "Argomento": "Arte",
+    "Domanda": "E' un quadro di Dalì la Persistenza della …",
+    "Opzione A": "Noia",
+    "Opzione B": "Memoria",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1158",
+    "Argomento": "Varie",
+    "Domanda": "A palazzo Senatorio ha l'ufficio il Sindaco di …",
+    "Opzione A": "Roma",
+    "Opzione B": "Milano",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1159",
+    "Argomento": "Scienza",
+    "Domanda": "L'Indivia è detta anche …",
+    "Opzione A": "Radicchio",
+    "Opzione B": "Scarola",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1160",
+    "Argomento": "Varie",
+    "Domanda": "La torta Sacher si fa con la marmellata di …",
+    "Opzione A": "Arancie",
+    "Opzione B": "Albicocche",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1161",
+    "Argomento": "Scienza",
+    "Domanda": "Con hgli steli secchi dei cereali si fa …",
+    "Opzione A": "Paglia",
+    "Opzione B": "Fieno",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1162",
+    "Argomento": "Arte",
+    "Domanda": "Rispetto a Vita spericolata Alba chiara è uscita …",
+    "Opzione A": "Prima",
+    "Opzione B": "Dopo",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1163",
+    "Argomento": "Film",
+    "Domanda": "E' un film di animazione Piovono …",
+    "Opzione A": "Involtini",
+    "Opzione B": "Polpette",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1164",
+    "Argomento": "Arte",
+    "Domanda": "Ha le catene ai piedi …",
+    "Opzione A": "la Statua della Libertà",
+    "Opzione B": "il Cristo di Rio",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1165",
+    "Argomento": "Storia",
+    "Domanda": "Il Titanic è affontato nel …",
+    "Opzione A": "1912",
+    "Opzione B": "1918",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1166",
+    "Argomento": "Varie",
+    "Domanda": "Alla fine di un libro ci sono più pagine …",
+    "Opzione A": "Lette",
+    "Opzione B": "da Leggere",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1167",
+    "Argomento": "Arte",
+    "Domanda": "Biancaneve indossa una lunga gonna …",
+    "Opzione A": "Gialla",
+    "Opzione B": "Blu",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1168",
+    "Argomento": "Varie",
+    "Domanda": "Verano in Spagnolo significa …",
+    "Opzione A": "Estate",
+    "Opzione B": "Inverno",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1169",
+    "Argomento": "Storia",
+    "Domanda": "Riccardo cuor di Leone fu sovrano di …",
+    "Opzione A": "Francia",
+    "Opzione B": "Inghilterra",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1170",
+    "Argomento": "Varie",
+    "Domanda": "E' invernale il segno zodiacale dei …",
+    "Opzione A": "Pesci",
+    "Opzione B": "Gemelli",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1171",
+    "Argomento": "Varie",
+    "Domanda": "Gli Arrosticcini si fanno con carne di …",
+    "Opzione A": "Cappone",
+    "Opzione B": "Castrato",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1172",
+    "Argomento": "Varie",
+    "Domanda": "La scocca di una macchina è il suo …",
+    "Opzione A": "Telaio",
+    "Opzione B": "Cruscotto",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1173",
+    "Argomento": "Arte",
+    "Domanda": "Il Ciano è un colore simile all' …",
+    "Opzione A": "Arancione",
+    "Opzione B": "Azzurro",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1174",
+    "Argomento": "Varie",
+    "Domanda": "Chi usa metafore esagerate fa una …",
+    "Opzione A": "Iperbole",
+    "Opzione B": "Parabola",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1175",
+    "Argomento": "Scienza",
+    "Domanda": "Nell'eclissi lunare a oscusare la Luna è …",
+    "Opzione A": "il Sole",
+    "Opzione B": "la Terra",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1176",
+    "Argomento": "Scienza",
+    "Domanda": "E' un animale carnivoro …",
+    "Opzione A": "l'Ermellino",
+    "Opzione B": "il Castoro",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1177",
+    "Argomento": "Varie",
+    "Domanda": "Il Magatello è un taglio di carne …",
+    "Opzione A": "Scadente",
+    "Opzione B": "Pregiato",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1178",
+    "Argomento": "Scienza",
+    "Domanda": "E' più calda la fiamma di colore …",
+    "Opzione A": "Rosso",
+    "Opzione B": "Blu",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1179",
+    "Argomento": "Varie",
+    "Domanda": "Locatario e Affittuario sono …",
+    "Opzione A": "Sinonimi",
+    "Opzione B": "Contrari",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
   }
 ]
