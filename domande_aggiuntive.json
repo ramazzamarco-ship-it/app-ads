@@ -709,5 +709,860 @@
     "Opzione B": "Contrari",
     "Risposta Corretta": "A",
     "Livello": "Medio"
+  },
+  {
+    "ID": "1180",
+    "Argomento": "Arte",
+    "Domanda": "Come si chiamava la famosa casa di Michael Jackson?",
+    "Opzione A": "Wonderland",
+    "Opzione B": "Neverland",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1181",
+    "Argomento": "Arte",
+    "Domanda": "Il coro in una chiesa è spesso ospitato …",
+    "Opzione A": "nell'Abside",
+    "Opzione B": "nel Transetto",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1182",
+    "Argomento": "Arte",
+    "Domanda": "Il David di Donatello cosa tiene nella mano destra?",
+    "Opzione A": "Una Spada",
+    "Opzione B": "Una Fionda",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1183",
+    "Argomento": "Arte",
+    "Domanda": "Il teatro \"\"La Fenice\"\" si trova a …",
+    "Opzione A": "Venezia",
+    "Opzione B": "Bari",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1184",
+    "Argomento": "Arte",
+    "Domanda": "La \"\"Navata\"\" di una chiesa ospita …",
+    "Opzione A": "il Clero",
+    "Opzione B": "l'Assemblea",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1185",
+    "Argomento": "Arte",
+    "Domanda": "La \"\"Ragazza con l'orecchino di perla\"\" in testa ha una fascia …",
+    "Opzione A": "Blu",
+    "Opzione B": "Verde",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1186",
+    "Argomento": "Arte",
+    "Domanda": "La Band di Morgan è …",
+    "Opzione A": "Bluvertigo",
+    "Opzione B": "Afterhours",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1187",
+    "Argomento": "Arte",
+    "Domanda": "La Gioconda quale mano tiene sopra all'altra?",
+    "Opzione A": "Desta",
+    "Opzione B": "Sinistra",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1188",
+    "Argomento": "Arte",
+    "Domanda": "La Venere di Milo ha le braccia?",
+    "Opzione A": "Sì",
+    "Opzione B": "No",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1189",
+    "Argomento": "Arte",
+    "Domanda": "Nelle carte da gioco Piacentine l'asso di Denari è …",
+    "Opzione A": "un Aquila",
+    "Opzione B": "un Denaro",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1190",
+    "Argomento": "Arte",
+    "Domanda": "Nello stemma di San Marino c'è un ramo di …",
+    "Opzione A": "Quercia",
+    "Opzione B": "Ulivo",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1191",
+    "Argomento": "Arte",
+    "Domanda": "Nello stemma di San Marino il ramo di Alloro è a …",
+    "Opzione A": "Destra",
+    "Opzione B": "Sinistra",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1192",
+    "Argomento": "Film",
+    "Domanda": "“Quattro mosche di velluto grigio” è un film diretto da …",
+    "Opzione A": "Dario Argento",
+    "Opzione B": "Alfred Hitchcock",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1193",
+    "Argomento": "Film",
+    "Domanda": "Dove è nata Jennifer Lopez?",
+    "Opzione A": "San Juan",
+    "Opzione B": "New York",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1194",
+    "Argomento": "Film",
+    "Domanda": "Dove è nato John Wayne?",
+    "Opzione A": "Michigan",
+    "Opzione B": "Iowa",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1195",
+    "Argomento": "Film",
+    "Domanda": "Il re protagonista del film “Il discorso del re” è …",
+    "Opzione A": "Giorgio VI",
+    "Opzione B": "Enrico II",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1196",
+    "Argomento": "Film",
+    "Domanda": "Matilda De Angelis è  …",
+    "Opzione A": "un'Attrice",
+    "Opzione B": "una Cantante",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1197",
+    "Argomento": "Geografia",
+    "Domanda": "Curaçao è …",
+    "Opzione A": "un'Isola",
+    "Opzione B": "un Succo",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1198",
+    "Argomento": "Geografia",
+    "Domanda": "E' più a Sud il Tropico del …",
+    "Opzione A": "Cancro",
+    "Opzione B": "Capricorno",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1199",
+    "Argomento": "Geografia",
+    "Domanda": "Il Mar di Timor si trova in …",
+    "Opzione A": "Indonesia",
+    "Opzione B": "Africa",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1200",
+    "Argomento": "Geografia",
+    "Domanda": "La Piazza di Siena dove si svolge il Palio è …",
+    "Opzione A": "del Campo",
+    "Opzione B": "della Signoria",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1201",
+    "Argomento": "Geografia",
+    "Domanda": "Le isole Tremiti si trovano nel mare …",
+    "Opzione A": "Adriatico",
+    "Opzione B": "Tirreno",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1202",
+    "Argomento": "Geografia",
+    "Domanda": "Si trova più a Nord …",
+    "Opzione A": "Genova",
+    "Opzione B": "Bologna",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1203",
+    "Argomento": "Geografia",
+    "Domanda": "Taiwan è …",
+    "Opzione A": "un Isola",
+    "Opzione B": "una Penisola",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1204",
+    "Argomento": "Matematica",
+    "Domanda": "In un Triangolo i \"\"cateti\"\" sono …",
+    "Opzione A": "Lati",
+    "Opzione B": "Angoli",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1205",
+    "Argomento": "Matematica",
+    "Domanda": "La Formula della Potenza nello sport è Forza per …",
+    "Opzione A": "Massa",
+    "Opzione B": "Velocità",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1206",
+    "Argomento": "Matematica",
+    "Domanda": "La somma degli angoli di un triangolo a quanti gradi è uguale?",
+    "Opzione A": "180",
+    "Opzione B": "210",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1207",
+    "Argomento": "Matematica",
+    "Domanda": "L'apertura del compasso per disegnare un cerchio corrisponde …",
+    "Opzione A": "alla Circonferenza",
+    "Opzione B": "al Raggio",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1208",
+    "Argomento": "Matematica",
+    "Domanda": "L'Ipotenusa in un triangolo è il lato opposto all'angolo …",
+    "Opzione A": "Retto",
+    "Opzione B": "più Ampio",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1209",
+    "Argomento": "Matematica",
+    "Domanda": "Quanto fa 2.000 * 0,25?",
+    "Opzione A": "50",
+    "Opzione B": "500",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1210",
+    "Argomento": "Matematica",
+    "Domanda": "Un triangolo con tutti i lati di lunghezza diversa è detto …",
+    "Opzione A": "Isoscele",
+    "Opzione B": "Scaleno",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1211",
+    "Argomento": "Scienza",
+    "Domanda": "Che grado di parentela c'è fra fratelli?",
+    "Opzione A": "Primo",
+    "Opzione B": "Secondo",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1212",
+    "Argomento": "Scienza",
+    "Domanda": "Cos'è la Vespa di mare …",
+    "Opzione A": "una Medusa",
+    "Opzione B": "un Crostaceo",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1213",
+    "Argomento": "Scienza",
+    "Domanda": "Di che colore è la pelle dell'Orso Bianco?",
+    "Opzione A": "Nera",
+    "Opzione B": "Rosa",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1214",
+    "Argomento": "Scienza",
+    "Domanda": "E' un \"\"Marsupiale\"\" …",
+    "Opzione A": "Koala",
+    "Opzione B": "Panda",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1215",
+    "Argomento": "Scienza",
+    "Domanda": "E' un mammifero erbivoro …",
+    "Opzione A": "lo Gnu",
+    "Opzione B": "l'Emù",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1216",
+    "Argomento": "Scienza",
+    "Domanda": "E' un’appendice carnosa che pende sotto il becco di alcuni volatili …",
+    "Opzione A": "Bargiglio",
+    "Opzione B": "Carniglio",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1217",
+    "Argomento": "Scienza",
+    "Domanda": "E' una pianta carnivora la …",
+    "Opzione A": "Sarcococca",
+    "Opzione B": "Sarracenia",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1218",
+    "Argomento": "Scienza",
+    "Domanda": "Esiste un tipo di Gufo …",
+    "Opzione A": "Barbuto",
+    "Opzione B": "Baffuto",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1219",
+    "Argomento": "Scienza",
+    "Domanda": "Ha la coda più lunga la Scimmia …",
+    "Opzione A": "Gelada",
+    "Opzione B": "Cappuccino",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1220",
+    "Argomento": "Scienza",
+    "Domanda": "Ha sostituito il Mercurio nei termometri …",
+    "Opzione A": "Gallio",
+    "Opzione B": "Pollio",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1221",
+    "Argomento": "Scienza",
+    "Domanda": "Hanno più file di Ventose …",
+    "Opzione A": "i Polipi",
+    "Opzione B": "i Calamari",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1222",
+    "Argomento": "Scienza",
+    "Domanda": "Il Beluga è un …",
+    "Opzione A": "Pesce",
+    "Opzione B": "Uccello",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1223",
+    "Argomento": "Scienza",
+    "Domanda": "Il frutto del Baobab è comunemente chiamato Pane …",
+    "Opzione A": "delle Scimmie",
+    "Opzione B": "della Vita",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1224",
+    "Argomento": "Scienza",
+    "Domanda": "Il Gallio è un …",
+    "Opzione A": "Metallo",
+    "Opzione B": "Veleno",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1225",
+    "Argomento": "Scienza",
+    "Domanda": "Il Grillo Talpa è un …",
+    "Opzione A": "Mammifero",
+    "Opzione B": "Insetto",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1226",
+    "Argomento": "Scienza",
+    "Domanda": "Il Panda ha le orecchie …",
+    "Opzione A": "Bianche",
+    "Opzione B": "Nere",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1227",
+    "Argomento": "Scienza",
+    "Domanda": "Il pesce più grande al mondo è …",
+    "Opzione A": "uno Squalo",
+    "Opzione B": "un Capodoglio",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1228",
+    "Argomento": "Scienza",
+    "Domanda": "La \"\"Patella\"\" è un osso …",
+    "Opzione A": "del Ginocchio",
+    "Opzione B": "della Scapola",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1229",
+    "Argomento": "Scienza",
+    "Domanda": "L'animale più velenoso degli Stati  Uniti è il Serpente …",
+    "Opzione A": "Corallo",
+    "Opzione B": "a Sonagli",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1230",
+    "Argomento": "Scienza",
+    "Domanda": "Le Seppie hanno Ventose …",
+    "Opzione A": "Sì",
+    "Opzione B": "No",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1231",
+    "Argomento": "Scienza",
+    "Domanda": "Le Sequoie si possono trovare …",
+    "Opzione A": "nelle Filippine",
+    "Opzione B": "in Italia",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1232",
+    "Argomento": "Scienza",
+    "Domanda": "Per fare la Maionese dell'uovo si usa …",
+    "Opzione A": "l'Albume",
+    "Opzione B": "il Tuorlo",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1233",
+    "Argomento": "Scienza",
+    "Domanda": "Per fare la Maionese l'Uovo deve essere …",
+    "Opzione A": "Freddo",
+    "Opzione B": "a Temperatura Ambiente",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1234",
+    "Argomento": "Scienza",
+    "Domanda": "Proxima Centauri è una stella …",
+    "Opzione A": "Nana",
+    "Opzione B": "Gigante",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1235",
+    "Argomento": "Scienza",
+    "Domanda": "Qual è il rettile più lungo al mondo?",
+    "Opzione A": "Pitone reticolato",
+    "Opzione B": "Anaconda",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1236",
+    "Argomento": "Scienza",
+    "Domanda": "Qual è il rettile più pesante al mondo?",
+    "Opzione A": "Pitone reticolato",
+    "Opzione B": "Anaconda",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1237",
+    "Argomento": "Scienza",
+    "Domanda": "Quanto può vivere mediamente un Ulivo?",
+    "Opzione A": "500 anni",
+    "Opzione B": "200 anni",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1238",
+    "Argomento": "Scienza",
+    "Domanda": "Rispetto al \"\"nipote\"\" è un parente di secondo grado …",
+    "Opzione A": "lo Zio",
+    "Opzione B": "il Nonno",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1239",
+    "Argomento": "Scienza",
+    "Domanda": "Un gatto di 3 colori normalmente è …",
+    "Opzione A": "Maschio",
+    "Opzione B": "Femmina",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1240",
+    "Argomento": "Scienza",
+    "Domanda": "Un tipo di onda del mare è il …",
+    "Opzione A": "Moroso",
+    "Opzione B": "Maroso",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1241",
+    "Argomento": "Sport",
+    "Domanda": "Anterselva è un famoso centro sportivo invernale di …",
+    "Opzione A": "Salto",
+    "Opzione B": "Biathlon",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1242",
+    "Argomento": "Sport",
+    "Domanda": "E' nato prima lo sciatore …",
+    "Opzione A": "Ingemar Stenmark",
+    "Opzione B": "Piero Gros",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1243",
+    "Argomento": "Sport",
+    "Domanda": "E' una variante del Poker …",
+    "Opzione A": "Franchina",
+    "Opzione B": "Teresina",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1244",
+    "Argomento": "Sport",
+    "Domanda": "Il dipinto  su seta premio del Palio di Siena è detto ...",
+    "Opzione A": "Vessillo",
+    "Opzione B": "Cencio",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1245",
+    "Argomento": "Sport",
+    "Domanda": "Il peso minimo di una Formula 1 incluso il pilota nel 2025 è …",
+    "Opzione A": "800 Kg",
+    "Opzione B": "780 Kg",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1246",
+    "Argomento": "Sport",
+    "Domanda": "Il seme dei \"\"Fiori\"\" nelle carte francesi è rappresentato da un …",
+    "Opzione A": "Trifoglio",
+    "Opzione B": "Quadrifoglio",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1247",
+    "Argomento": "Sport",
+    "Domanda": "Kristian Ghedina è stato uno …",
+    "Opzione A": "Sciatore",
+    "Opzione B": "Scultore",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1248",
+    "Argomento": "Sport",
+    "Domanda": "La \"\"Rabona\"\" è un colpo del …",
+    "Opzione A": "Tennis",
+    "Opzione B": "Calcio",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1249",
+    "Argomento": "Sport",
+    "Domanda": "La potenza di uno sportivo si misura in …",
+    "Opzione A": "Newton",
+    "Opzione B": "Watt",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1250",
+    "Argomento": "Sport",
+    "Domanda": "La prima scuderia di F1 di cui è stato Team Principal Flavio Briatore è …",
+    "Opzione A": "Renault",
+    "Opzione B": "Benetton",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1251",
+    "Argomento": "Sport",
+    "Domanda": "La saltatrice in lungo Fiona May è nata …",
+    "Opzione A": "Inghilterra",
+    "Opzione B": "Stati Uniti",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1252",
+    "Argomento": "Sport",
+    "Domanda": "La specialità in cui Mike Powell detiene un record mondiale è …",
+    "Opzione A": "Salto in lungo",
+    "Opzione B": "200 metri",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1253",
+    "Argomento": "Sport",
+    "Domanda": "Lo sciatore Marc Girardelli gareggiò per …",
+    "Opzione A": "il Lussemburgo",
+    "Opzione B": "la Svizzera",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1254",
+    "Argomento": "Sport",
+    "Domanda": "Nel 2025 l'unico pilota italiano in Formula 1 giuda una …",
+    "Opzione A": "Mercedes",
+    "Opzione B": "Hass",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1255",
+    "Argomento": "Sport",
+    "Domanda": "Nel Poker è un punto più alto …",
+    "Opzione A": "Full",
+    "Opzione B": "Colore",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1256",
+    "Argomento": "Sport",
+    "Domanda": "Tra queste 2 categorie di peso della boxe, quale è superiore?",
+    "Opzione A": "Gallo",
+    "Opzione B": "Piuma",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1257",
+    "Argomento": "Storia",
+    "Domanda": "E' una delle sette meraviglie del mondo antico…",
+    "Opzione A": "Muraglia Cinese",
+    "Opzione B": "Piramide di Cheope",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1258",
+    "Argomento": "Storia",
+    "Domanda": "E' una delle sette meraviglie del mondo moderno…",
+    "Opzione A": "Taj Mahal",
+    "Opzione B": "Colosso di Rodi",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1259",
+    "Argomento": "Storia",
+    "Domanda": "Il \"\"Codice a Barre\"\" fu inventato negli anni …",
+    "Opzione A": "40",
+    "Opzione B": "60",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1260",
+    "Argomento": "Storia",
+    "Domanda": "La prima protesi mai ritrovata era fatta di …",
+    "Opzione A": "Ferro",
+    "Opzione B": "Legno",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1261",
+    "Argomento": "Storia",
+    "Domanda": "La prima protesi mai ritrovata era un …",
+    "Opzione A": "Alluce",
+    "Opzione B": "Mignolo",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1262",
+    "Argomento": "Storia",
+    "Domanda": "L'albero pìù longevo al mondo si chiama …",
+    "Opzione A": "Prometeo",
+    "Opzione B": "Matusalemme",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1263",
+    "Argomento": "Storia",
+    "Domanda": "L'albero pìù longevo al mondo si trova in …",
+    "Opzione A": "California",
+    "Opzione B": "Scozia",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1264",
+    "Argomento": "Storia",
+    "Domanda": "Una delle ultime colonie Francesi è stata la …",
+    "Opzione A": "Mauritania",
+    "Opzione B": "Martinica",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1265",
+    "Argomento": "Varie",
+    "Domanda": "A quale animale è associato un calo della Borsa …",
+    "Opzione A": "Lupo",
+    "Opzione B": "Orso",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1266",
+    "Argomento": "Varie",
+    "Domanda": "E' un componente meccanico utilizzato per bloccare utensili …",
+    "Opzione A": "Mandrino",
+    "Opzione B": "Mandrillo",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1267",
+    "Argomento": "Varie",
+    "Domanda": "Il Pandoro è un dolce tipico di …",
+    "Opzione A": "Milano",
+    "Opzione B": "Verona",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1268",
+    "Argomento": "Varie",
+    "Domanda": "Il termine Giapponese \"\"Konnichiwa\"\" in italiano vuol dire …",
+    "Opzione A": "Buongiorno",
+    "Opzione B": "Buonasera",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1269",
+    "Argomento": "Varie",
+    "Domanda": "L’ingrediente principale del Margarita è …",
+    "Opzione A": "la Tequila",
+    "Opzione B": "il Gin",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1270",
+    "Argomento": "Varie",
+    "Domanda": "La sigla UHT si può travare su una confezione di …",
+    "Opzione A": "Detersivo",
+    "Opzione B": "Latte",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1271",
+    "Argomento": "Varie",
+    "Domanda": "Nel Codice Fiscale ci sono più …",
+    "Opzione A": "Lettere",
+    "Opzione B": "Numeri",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1272",
+    "Argomento": "Varie",
+    "Domanda": "Qual è l'unico Re delle carte Francesi che non ha i baffi?",
+    "Opzione A": "di Cuori",
+    "Opzione B": "di Picche",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1273",
+    "Argomento": "Varie",
+    "Domanda": "Se in Italia è sera a New York è …",
+    "Opzione A": "Pomeriggio",
+    "Opzione B": "Mattina",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1274",
+    "Argomento": "Varie",
+    "Domanda": "Si guida a sinistra a …",
+    "Opzione A": "Taiwan",
+    "Opzione B": "Malta",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
   }
 ]
