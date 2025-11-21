@@ -223,5 +223,284 @@
     "Opzione B": "Malta",
     "Risposta Corretta": "B",
     "Livello": "Alto"
+  },
+  {
+    "ID": "1128",
+    "Argomento": "Scienza",
+    "Domanda": "Misura la magnitudo di un terremoto …",
+    "Opzione A": "Scala Mercalli",
+    "Opzione B": "Scala Richter",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1059",
+    "Argomento": "Sport",
+    "Domanda": "Helkiaer e Briegel hanno giocato assieme in Italia nel …",
+    "Opzione A": "Verona",
+    "Opzione B": "Ascoli",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1275",
+    "Argomento": "Arte",
+    "Domanda": "Ne \"\"La creazione di Adamo\"\" Adamo si trova sulla …",
+    "Opzione A": "Destra",
+    "Opzione B": "Sinistra",
+    "Risposta Corretta": "B",
+    "Livello": "Mediio"
+  },
+  {
+    "ID": "1276",
+    "Argomento": "Arte",
+    "Domanda": "Ne \"\"La creazione di Adamo\"\" Dio è raffigurato avvolto in un mantello …",
+    "Opzione A": "Rosa",
+    "Opzione B": "Grigio",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1277",
+    "Argomento": "Arte",
+    "Domanda": "Ne \"\"La nascita di Verere\"\" quanti personaggi sono raffigurati?",
+    "Opzione A": "5",
+    "Opzione B": "4",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1278",
+    "Argomento": "Arte",
+    "Domanda": "Ne \"\"La nascita di Verere\"\" Venere è raffigurata in piedi su una …",
+    "Opzione A": "Conchiglia",
+    "Opzione B": "Stella",
+    "Risposta Corretta": "A",
+    "Livello": "Mediio"
+  },
+  {
+    "ID": "1279",
+    "Argomento": "Film",
+    "Domanda": "Che auto guida Diabolik?",
+    "Opzione A": "Jaguar",
+    "Opzione B": "Porsche",
+    "Risposta Corretta": "A",
+    "Livello": "Mediio"
+  },
+  {
+    "ID": "1280",
+    "Argomento": "Film",
+    "Domanda": "Come si chiama il protagonista maschile di Pretty Woman?",
+    "Opzione A": "Edward",
+    "Opzione B": "Edgard",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1281",
+    "Argomento": "Film",
+    "Domanda": "Il personaggio Starsky nella serie Starsky & Hutch si chiama?",
+    "Opzione A": "Kenneth",
+    "Opzione B": "David",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1282",
+    "Argomento": "Film",
+    "Domanda": "Il soprannome del copilota di Maverick in Top Gun è …",
+    "Opzione A": "Goose",
+    "Opzione B": "Cougar",
+    "Risposta Corretta": "A",
+    "Livello": "Mediio"
+  },
+  {
+    "ID": "1283",
+    "Argomento": "Film",
+    "Domanda": "Nella serie Miami Vice Crockett guidava una Ferrari ...",
+    "Opzione A": "Rossa",
+    "Opzione B": "Bianca",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1284",
+    "Argomento": "Matematica",
+    "Domanda": "Quanto fa 2 elevato alla quinta?",
+    "Opzione A": "64",
+    "Opzione B": "32",
+    "Risposta Corretta": "B",
+    "Livello": "Mediio"
+  },
+  {
+    "ID": "1285",
+    "Argomento": "Matematica",
+    "Domanda": "Se 3 matite costano 7,5 € quanto costano 5 matite?",
+    "Opzione A": "12.50 €",
+    "Opzione B": "10 €",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1286",
+    "Argomento": "Scienza",
+    "Domanda": "E' il nome di un tipo di \"\"mantello\"\" di un Cavallo …",
+    "Opzione A": "Isabella",
+    "Opzione B": "Rossella",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1287",
+    "Argomento": "Scienza",
+    "Domanda": "E' un Cavallo di colore rossiccio il …",
+    "Opzione A": "Baio",
+    "Opzione B": "Sauro",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1288",
+    "Argomento": "Scienza",
+    "Domanda": "E' una razza di cani a coda corta il …",
+    "Opzione A": "Beagle",
+    "Opzione B": "Boston Terrier",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1289",
+    "Argomento": "Scienza",
+    "Domanda": "E' una razza di Gatto senza pelo …",
+    "Opzione A": "Sphynx",
+    "Opzione B": "Spenks",
+    "Risposta Corretta": "A",
+    "Livello": "Mediio"
+  },
+  {
+    "ID": "1290",
+    "Argomento": "Scienza",
+    "Domanda": "La Bavosa è un …",
+    "Opzione A": "Anfibio",
+    "Opzione B": "Pesce",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1291",
+    "Argomento": "Scienza",
+    "Domanda": "La razza di cani Labrador è originaria …",
+    "Opzione A": "del Canda",
+    "Opzione B": "della Germania",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1292",
+    "Argomento": "Sport",
+    "Domanda": "Ha vinto ori mondiali nello Sci di Fondo …",
+    "Opzione A": "Dorothea Wierer",
+    "Opzione B": "Stefania Belmondo",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1293",
+    "Argomento": "Storia",
+    "Domanda": "E' una parola citata nel primo articolo della Costituzione Italiana …",
+    "Opzione A": "Bandiera",
+    "Opzione B": "Costituzione",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1294",
+    "Argomento": "Storia",
+    "Domanda": "Era uno dei 12 Apostoli …",
+    "Opzione A": "Luca",
+    "Opzione B": "Andrea",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1295",
+    "Argomento": "Storia",
+    "Domanda": "Il comandante dello sbarco in Normandia era il generale …",
+    "Opzione A": "Eisenhower",
+    "Opzione B": "MacArthur",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1296",
+    "Argomento": "Storia",
+    "Domanda": "Il primo Milite Ignoto è il corpo di un soldato caduto durante la …",
+    "Opzione A": "Prima Guerra Mondiale",
+    "Opzione B": "Seconda Guerra Mondiale",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1297",
+    "Argomento": "Storia",
+    "Domanda": "In che anno è entrata in vigore la Costituzione Italiana?",
+    "Opzione A": "1946",
+    "Opzione B": "1948",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1298",
+    "Argomento": "Storia",
+    "Domanda": "Quanti sono gli articoli della Costituzione Italiana?",
+    "Opzione A": "139",
+    "Opzione B": "125",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1299",
+    "Argomento": "Varie",
+    "Domanda": "Il \"\"Transatlantico\"\" è un corridoio del palazzo del …",
+    "Opzione A": "Parlamento",
+    "Opzione B": "Quirinale",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1300",
+    "Argomento": "Varie",
+    "Domanda": "Il participio passato di \"\"accendere\"\" è …",
+    "Opzione A": "Acceso",
+    "Opzione B": "Accendo",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1301",
+    "Argomento": "Varie",
+    "Domanda": "Il passato remoto di \"\"vedere\"\" è …",
+    "Opzione A": "vedei",
+    "Opzione B": "vidi",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1302",
+    "Argomento": "Varie",
+    "Domanda": "L'Orient Express era un treno che collegava Parigi a …",
+    "Opzione A": "Mosca",
+    "Opzione B": "Istambul",
+    "Risposta Corretta": "B",
+    "Livello": "Mediio"
+  },
+  {
+    "ID": "1303",
+    "Argomento": "Varie",
+    "Domanda": "Nel settimo comandamento si nomina la parola …",
+    "Opzione A": "Uccidere",
+    "Opzione B": "Adulterio",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
   }
 ]
