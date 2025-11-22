@@ -1,0 +1,15 @@
+Richiesta di Eliminazione dei Dati per l'app Cento
+Se desideri richiedere l'eliminazione del tuo account e dei dati associati dall'app Cento, sviluppata da pearrama, segui le istruzioni qui sotto.
+Quali dati vengono eliminati
+L'eliminazione del tuo account comporterà la rimozione definitiva dei seguenti dati personali dai nostri sistemi:
+•Il tuo nickname salvato.
+•Tutti i tuoi punteggi record associati a quel nickname.
+Questi dati sono salvati nel nostro database Firebase Firestore.
+Come richiedere l'eliminazione 
+Per avviare il processo di eliminazione, invia un'email dal link sottostante. 
+
+[**Clicca qui per inviare la richiesta di eliminazione via email**](mailto:ramazzamarco@gmail.com?subject=Richiesta%20di%20eliminazione%20dati%20per%20Cento)
+
+Nella richiesta, per favore, specifica il nickname che desideri cancellare.
+Se il link non funziona, puoi inviare manualmente un'email a ramazzamarco@gmail.com con l'oggetto "Richiesta di eliminazione dati per Cento".
+Una volta ricevuta la tua richiesta, procederemo con l'eliminazione dei dati e ti invieremo una conferma.
