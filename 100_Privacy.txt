@@ -1,0 +1,49 @@
+# Privacy Policy for Cento
+
+This Privacy Policy describes how your personal information is handled in the Cento app.
+
+**Last Updated: 24 May 2024**
+
+## Information We Collect
+
+To provide features like the leaderboard, we collect and store the following information:
+*   **Nickname:** When you decide to save a record, we ask for a nickname. This nickname is chosen by you and is stored on our servers to be displayed in the public leaderboard. It is also stored locally on your device for your convenience. We recommend that you do not use your real name as your nickname.
+
+We do not collect other personal information like your name or email address.
+
+Individual settings related to the Cento app are not personal and are stored only on your device.
+
+## Third-Party Services & Advertising
+
+Our app uses Google AdMob for advertising. AdMob is a third-party service provided by Google.
+
+Google AdMob may collect and use data for advertising purposes. This may include, but is not limited to, data such as your device's advertising ID, IP address, and information about your interaction with ads. This information is used to provide personalized advertising.
+
+For more information on how Google collects and uses your data, please review Google's Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+Our app also uses Google Play Services. Their Privacy Policy can be found here: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+## Your Rights Under the GDPR
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights.
+
+*   **Access and Update:** You can view and update your nickname from within the app's "Records & Profile" screen.
+*   **Deletion:** If you wish to have your nickname and associated records removed from our leaderboard, please contact us at **ramazzamarco@gmail.com**.
+
+For data collected by our third-party services (Google AdMob, Google Play Services), any requests regarding your data should be directed towards them.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, you can contact us:
+
+*   By email: **ramazzamarco@gmail.com**
