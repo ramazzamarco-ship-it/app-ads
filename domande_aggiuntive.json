@@ -502,5 +502,14 @@
     "Opzione B": "Adulterio",
     "Risposta Corretta": "B",
     "Livello": "Alto"
+  },
+  {
+    "ID": "750",
+    "Argomento": "Storia",
+    "Domanda": "E' stato prima Presidente Americano …",
+    "Opzione A": "Bill Clinton",
+    "Opzione B": "George W.Bush",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
   }
 ]
