@@ -772,5 +772,32 @@
     "Opzione B": "Sud",
     "Risposta Corretta": "A",
     "Livello": "Basso"
+  },
+  {
+    "ID": "331",
+    "Argomento": "Letteratura",
+    "Domanda": "Il pifferaio magico fu chiamato per liberare la città da..",
+    "Opzione A": "Topi",
+    "Opzione B": "Gatti",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "862",
+    "Argomento": "Geografia",
+    "Domanda": "Dove si trova il Pentagono?",
+    "Opzione A": "Virginia ",
+    "Opzione B": "Washington",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "863",
+    "Argomento": "Scienza",
+    "Domanda": "Il Petauro è un Marsupiale?",
+    "Opzione A": "Vero ",
+    "Opzione B": "Falso ",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
   }
 ]
