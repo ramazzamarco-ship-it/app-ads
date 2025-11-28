@@ -249,7 +249,7 @@
     "Opzione A": "Destra",
     "Opzione B": "Sinistra",
     "Risposta Corretta": "B",
-    "Livello": "Mediio"
+    "Livello": "Medio"
   },
   {
     "ID": "1276",
@@ -276,7 +276,7 @@
     "Opzione A": "Conchiglia",
     "Opzione B": "Stella",
     "Risposta Corretta": "A",
-    "Livello": "Mediio"
+    "Livello": "Medio"
   },
   {
     "ID": "1279",
@@ -285,7 +285,7 @@
     "Opzione A": "Jaguar",
     "Opzione B": "Porsche",
     "Risposta Corretta": "A",
-    "Livello": "Mediio"
+    "Livello": "Medio"
   },
   {
     "ID": "1280",
@@ -312,7 +312,7 @@
     "Opzione A": "Goose",
     "Opzione B": "Cougar",
     "Risposta Corretta": "A",
-    "Livello": "Mediio"
+    "Livello": "Medio"
   },
   {
     "ID": "1283",
@@ -330,7 +330,7 @@
     "Opzione A": "64",
     "Opzione B": "32",
     "Risposta Corretta": "B",
-    "Livello": "Mediio"
+    "Livello": "Medio"
   },
   {
     "ID": "1285",
@@ -375,7 +375,7 @@
     "Opzione A": "Sphynx",
     "Opzione B": "Spenks",
     "Risposta Corretta": "A",
-    "Livello": "Mediio"
+    "Livello": "Medio"
   },
   {
     "ID": "1290",
@@ -492,7 +492,7 @@
     "Opzione A": "Mosca",
     "Opzione B": "Istambul",
     "Risposta Corretta": "B",
-    "Livello": "Mediio"
+    "Livello": "Medio"
   },
   {
     "ID": "1303",
@@ -511,5 +511,266 @@
     "Opzione B": "George W.Bush",
     "Risposta Corretta": "A",
     "Livello": "Medio"
+  },
+  {
+    "ID": "1304",
+    "Argomento": "Sport",
+    "Domanda": "I piloti di Formula 1 indossano …",
+    "Opzione A": "la Sciarpa",
+    "Opzione B": "i Guanti",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1305",
+    "Argomento": "Varie",
+    "Domanda": "Non si fanno le Nozze con …",
+    "Opzione A": "l'Uva passa",
+    "Opzione B": "i Fichi secchi",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1306",
+    "Argomento": "Varie",
+    "Domanda": "Il brillantante si mette nella …",
+    "Opzione A": "Lavatrice",
+    "Opzione B": "Lavastoviglie",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1307",
+    "Argomento": "Arte",
+    "Domanda": "E' uno strumento musicale il …",
+    "Opzione A": "Timpano",
+    "Opzione B": "Martello",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1308",
+    "Argomento": "Varie",
+    "Domanda": "Non puoi servire il brodo nel piatto …",
+    "Opzione A": "Piano",
+    "Opzione B": "Fondo",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1309",
+    "Argomento": "Scienza",
+    "Domanda": "Il Tarassaco è una pianta detta Dente di …",
+    "Opzione A": "Tigre",
+    "Opzione B": "Leone",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1310",
+    "Argomento": "Varie",
+    "Domanda": "Rabboccare è sinonimo di …",
+    "Opzione A": "Riempire",
+    "Opzione B": "Svuotare",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1311",
+    "Argomento": "Varie",
+    "Domanda": "E' anche un aggettivo la parola …",
+    "Opzione A": "Parco",
+    "Opzione B": "Prato",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1312",
+    "Argomento": "Arte",
+    "Domanda": "Il nome di Capitan Uncino è …",
+    "Opzione A": "Giovanni",
+    "Opzione B": "Giacomo",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1313",
+    "Argomento": "Sport",
+    "Domanda": "Ha giocato più campionati di Serie A …",
+    "Opzione A": "il Napoli",
+    "Opzione B": "la Fiorentina",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1314",
+    "Argomento": "Varie",
+    "Domanda": "Sono una specialità romana i supplì al …",
+    "Opzione A": "Telefono",
+    "Opzione B": "Citofono",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1315",
+    "Argomento": "Arte",
+    "Domanda": "In un libro le pagine di destra sono quelle …",
+    "Opzione A": "Pari",
+    "Opzione B": "Dispari",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1316",
+    "Argomento": "Arte",
+    "Domanda": "L'Elegia è un testo …",
+    "Opzione A": "Allegro",
+    "Opzione B": "Triste",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1317",
+    "Argomento": "Storia",
+    "Domanda": "Date a Cesare quel che è di Cesare è una frase di …",
+    "Opzione A": "Gesù",
+    "Opzione B": "Dante",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1318",
+    "Argomento": "Film",
+    "Domanda": "In Troppo forte Verdone veste i panni di …",
+    "Opzione A": "Oscar",
+    "Opzione B": "Furio",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1319",
+    "Argomento": "Geografia",
+    "Domanda": "L'Isola di Itaca è bagnata dal mare …",
+    "Opzione A": "Egeo",
+    "Opzione B": "Ionio",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1320",
+    "Argomento": "Arte",
+    "Domanda": "E' una biondina la sorella di …",
+    "Opzione A": "Linus",
+    "Opzione B": "Charlie Brown",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1321",
+    "Argomento": "Storia",
+    "Domanda": "La Moca è stata inventata da un …",
+    "Opzione A": "Napoletano",
+    "Opzione B": "Piemontese",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1322",
+    "Argomento": "Arte",
+    "Domanda": "Il premio Oscar esiste da più o meno di un secolo?",
+    "Opzione A": "Più",
+    "Opzione B": "Meno",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1323",
+    "Argomento": "Sport",
+    "Domanda": "Il tiro dagli 11 metri è il calcio di …",
+    "Opzione A": "Rinvio",
+    "Opzione B": "Rigore",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1324",
+    "Argomento": "Film",
+    "Domanda": "Ha vinto l'Oscar Leonardo …",
+    "Opzione A": "Di Caprio",
+    "Opzione B": "Pieraccioni",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1325",
+    "Argomento": "Scienza",
+    "Domanda": "La fibra del Cotone si ricava dal …",
+    "Opzione A": "Fiore",
+    "Opzione B": "Frutto",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1326",
+    "Argomento": "Sport",
+    "Domanda": "Ha ospitato 3 volte le Olimpiadi …",
+    "Opzione A": "Atene",
+    "Opzione B": "Londra",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1327",
+    "Argomento": "Scienza",
+    "Domanda": "A Frinire sono le cicale …",
+    "Opzione A": "Maschio",
+    "Opzione B": "Femmina",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1328",
+    "Argomento": "Storia",
+    "Domanda": "Inizia con la Rivoluzione Francese l'età …",
+    "Opzione A": "Moderna",
+    "Opzione B": "Contemporanea",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1329",
+    "Argomento": "Film",
+    "Domanda": "E' un film di Woody Allen …",
+    "Opzione A": "Zelig",
+    "Opzione B": "Colorado",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1330",
+    "Argomento": "Varie",
+    "Domanda": "Per insufficienza di prove si può essere …",
+    "Opzione A": "Assolti",
+    "Opzione B": "Condannati",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1331",
+    "Argomento": "Varie",
+    "Domanda": "Contiene tutte le vocali la parola …",
+    "Opzione A": "Autorevole",
+    "Opzione B": "Autentico",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1332",
+    "Argomento": "Scienza",
+    "Domanda": "In primavera le Rondini volano verso …",
+    "Opzione A": "Nord",
+    "Opzione B": "Sud",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
   }
 ]
