@@ -1,5 +1,14 @@
 [
   {
+    "ID": "367",
+    "Argomento": "Letteratura ",
+    "Domanda": "Gilberto è un personaggio di …",
+    "Opzione A": "Paperino",
+    "Opzione B": "Topolino",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
     "ID": "1304",
     "Argomento": "Sport",
     "Domanda": "I piloti di Formula 1 indossano …",
@@ -502,5 +511,365 @@
     "Opzione B": "Spagna",
     "Risposta Corretta": "A",
     "Livello": "Medio"
+  },
+  {
+    "ID": "1360",
+    "Argomento": "Geografia",
+    "Domanda": "Il Friuli confina con il Trentino?",
+    "Opzione A": "TRUE",
+    "Opzione B": "FALSE",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1361",
+    "Argomento": "Geografia",
+    "Domanda": "E' più lunga la …",
+    "Opzione A": "Puglia",
+    "Opzione B": "Calabria",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1362",
+    "Argomento": "Storia",
+    "Domanda": "E' un titolo nobiliare più alto …",
+    "Opzione A": "Duca",
+    "Opzione B": "Conte",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1363",
+    "Argomento": "Geografia",
+    "Domanda": "Cavallini è un comune vicino a …",
+    "Opzione A": "Modena",
+    "Opzione B": "Lecce",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1364",
+    "Argomento": "Letteratura",
+    "Domanda": "Non ha il participio passato il verbo …",
+    "Opzione A": "Incutere",
+    "Opzione B": "Incombere",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1365",
+    "Argomento": "Scienza",
+    "Domanda": "Con PH maggiore di 7 una soluzione è …",
+    "Opzione A": "Acida",
+    "Opzione B": "Basica",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1366",
+    "Argomento": "Varie",
+    "Domanda": "Il Patrono degli Scout è …",
+    "Opzione A": "San Carlo",
+    "Opzione B": "San Giorgio",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1367",
+    "Argomento": "Arte",
+    "Domanda": "Leonardo ha dipinto la Madonna del …",
+    "Opzione A": "Garofano",
+    "Opzione B": "Cardellino",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1368",
+    "Argomento": "Scienza",
+    "Domanda": "Il Pane Carasau non contiene …",
+    "Opzione A": "Olio",
+    "Opzione B": "Lievito",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1369",
+    "Argomento": "Varie",
+    "Domanda": "Vive nel deserto del Sahara il …",
+    "Opzione A": "Cammello",
+    "Opzione B": "Dromedario",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1370",
+    "Argomento": "Varie",
+    "Domanda": "Indefessa è una persona …",
+    "Opzione A": "Stolta",
+    "Opzione B": "Instancabile",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1371",
+    "Argomento": "Varie",
+    "Domanda": "Il Gazpacho spagnolo è …",
+    "Opzione A": "una Zuppa",
+    "Opzione B": "uno Spezzatino",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1372",
+    "Argomento": "Varie",
+    "Domanda": "Dopo metà percorso si è più vicino …",
+    "Opzione A": "all'Arrivo",
+    "Opzione B": "alla Partenza",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1373",
+    "Argomento": "Varie",
+    "Domanda": "Gli Skinny sono pantaloni …",
+    "Opzione A": "Larghi",
+    "Opzione B": "Attillati",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1374",
+    "Argomento": "Varie",
+    "Domanda": "La manscotte della Guardia di Finanza è un …",
+    "Opzione A": "Dragone",
+    "Opzione B": "Grifone",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1375",
+    "Argomento": "Geografia",
+    "Domanda": "Nell'emisfero Boreale Gennaio è un mese …",
+    "Opzione A": "Estivo",
+    "Opzione B": "Invernale",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1376",
+    "Argomento": "Varie",
+    "Domanda": "Nel Rosario si recita più volte …",
+    "Opzione A": "Ave Maria",
+    "Opzione B": "Padre Nostro",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1377",
+    "Argomento": "Letteratura ",
+    "Domanda": "Bologna è detta la …",
+    "Opzione A": "Dotta",
+    "Opzione B": "Superba",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1378",
+    "Argomento": "Letteratura",
+    "Domanda": "Lo Zibaldone è il Diario personale di …",
+    "Opzione A": "Pascoli",
+    "Opzione B": "Leopardi",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1379",
+    "Argomento": "Storia",
+    "Domanda": "Nerone per Agrippina era il …",
+    "Opzione A": "Padre",
+    "Opzione B": "Figlio",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1380",
+    "Argomento": "Scienza",
+    "Domanda": "Il Cognac si ottiene distillando il vino …",
+    "Opzione A": "Rosso",
+    "Opzione B": "Bianco",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1381",
+    "Argomento": "Geografia",
+    "Domanda": "Il Mare in bonaccia è senza …",
+    "Opzione A": "Onde",
+    "Opzione B": "Pesci",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1382",
+    "Argomento": "Varie",
+    "Domanda": "Nel detto il pesce ad essere manfgiato è il pesce …",
+    "Opzione A": "Grande",
+    "Opzione B": "Piccolo",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1383",
+    "Argomento": "Arte",
+    "Domanda": "Alberto è il nome di …",
+    "Opzione A": "Mahmood",
+    "Opzione B": "Tananai",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1384",
+    "Argomento": "Geografia",
+    "Domanda": "C'è un Aquila bicefala nella bandiera …",
+    "Opzione A": "dell'Albania",
+    "Opzione B": "della Tunisia",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1385",
+    "Argomento": "Film",
+    "Domanda": "Non ha vinto Oscar …",
+    "Opzione A": "Star Wars",
+    "Opzione B": "Henry Potter",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1386",
+    "Argomento": "Scienza",
+    "Domanda": "Produce insulina …",
+    "Opzione A": "Fegato",
+    "Opzione B": "Pancreas",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1387",
+    "Argomento": "Varie",
+    "Domanda": "Mucca e Vacca sono lo stesso animale?",
+    "Opzione A": "TRUE",
+    "Opzione B": "FALSE",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1388",
+    "Argomento": "Letteratura",
+    "Domanda": "Vissero nel 600 …",
+    "Opzione A": "Renzo e Lucia",
+    "Opzione B": "Romeo e Giulietta",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1389",
+    "Argomento": "Varie",
+    "Domanda": "Il salame Felino è fatto con carne …",
+    "Opzione A": "Bovina",
+    "Opzione B": "Suina",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1390",
+    "Argomento": "Arte",
+    "Domanda": "Ha meno corde …",
+    "Opzione A": "il Pianoforte",
+    "Opzione B": "l'Arpa",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1391",
+    "Argomento": "Varie",
+    "Domanda": "Il Delatore è colui che …",
+    "Opzione A": "Delega",
+    "Opzione B": "Denuncia",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1392",
+    "Argomento": "Varie",
+    "Domanda": "E' un taglio di carne di Vitello la …",
+    "Opzione A": "Sella",
+    "Opzione B": "Staffa",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1393",
+    "Argomento": "Scienza",
+    "Domanda": "Ha un solo grande seme …",
+    "Opzione A": "l'Avocato",
+    "Opzione B": "la Papaya",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1394",
+    "Argomento": "Scienza",
+    "Domanda": "Le Farfalle hanno le ali ricoperte di …",
+    "Opzione A": "Piume",
+    "Opzione B": "Squame",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1395",
+    "Argomento": "Arte",
+    "Domanda": "L'Acquaforte è una tecnica di …",
+    "Opzione A": "Incisione",
+    "Opzione B": "Pittura",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1396",
+    "Argomento": "Arte",
+    "Domanda": "Nella canzone di Dalla ha il cuore in allarme …",
+    "Opzione A": "Anna",
+    "Opzione B": "Marco",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1397",
+    "Argomento": "Letteratura",
+    "Domanda": "San Martino del Carso è una poesia di …",
+    "Opzione A": "Carducci",
+    "Opzione B": "Ungaretti",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1398",
+    "Argomento": "Scienza",
+    "Domanda": "La \"\"Marina\"\" di Chioggia è un tipo di …",
+    "Opzione A": "Zucca",
+    "Opzione B": "Cozza",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1399",
+    "Argomento": "Letteratura",
+    "Domanda": "Il capitano Nemo comanda …",
+    "Opzione A": "una Baleniera",
+    "Opzione B": "un Sottomarino",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
   }
 ]
