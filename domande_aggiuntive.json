@@ -516,8 +516,8 @@
     "ID": "1360",
     "Argomento": "Geografia",
     "Domanda": "Il Friuli confina con il Trentino?",
-    "Opzione A": "TRUE",
-    "Opzione B": "FALSE",
+    "Opzione A": "Vero",
+    "Opzione B": "Falso",
     "Risposta Corretta": "B",
     "Livello": "Medio"
   },
@@ -759,8 +759,8 @@
     "ID": "1387",
     "Argomento": "Varie",
     "Domanda": "Mucca e Vacca sono lo stesso animale?",
-    "Opzione A": "TRUE",
-    "Opzione B": "FALSE",
+    "Opzione A": "Vero",
+    "Opzione B": "Falso",
     "Risposta Corretta": "A",
     "Livello": "Medio"
   },
