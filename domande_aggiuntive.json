@@ -70,5 +70,500 @@
     "Opzione B": "Villa",
     "Risposta Corretta": "A",
     "Livello": "Alto"
+  },
+  {
+    "ID": "1467",
+    "Argomento": "Varie",
+    "Domanda": "Troviamo uno \"\"gnomone\"\" in una …",
+    "Opzione A": "Meridiana",
+    "Opzione B": "Campana",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1468",
+    "Argomento": "Storia",
+    "Domanda": "Si cita di solito con Marat e Robespierre …",
+    "Opzione A": "Danton",
+    "Opzione B": "Pinton",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1469",
+    "Argomento": "Varie",
+    "Domanda": "Tra i suoi lavori c'è la pacciamatura …",
+    "Opzione A": "Falegname",
+    "Opzione B": "Giardiniere",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1470",
+    "Argomento": "Scienza",
+    "Domanda": "Una stella a neutroni residuo di una supernova …",
+    "Opzione A": "Quasar",
+    "Opzione B": "Pulsar",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1471",
+    "Argomento": "Arte",
+    "Domanda": "Gli Abba sono una band …",
+    "Opzione A": "Danese",
+    "Opzione B": "Svedese",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1472",
+    "Argomento": "Arte",
+    "Domanda": "Uno strumento a tastiera del XIX secolo è la …",
+    "Opzione A": "Celesta",
+    "Opzione B": "Turchesa",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1473",
+    "Argomento": "Storia",
+    "Domanda": "Giulio Cesere venne assassinato nel …",
+    "Opzione A": "44 a.c.",
+    "Opzione B": "44 d.c.",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1474",
+    "Argomento": "Varie",
+    "Domanda": "Sono tipici bagni termali Giapponesi …",
+    "Opzione A": "Onsen",
+    "Opzione B": "Monsell",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1475",
+    "Argomento": "Arte",
+    "Domanda": "Una corrente artistica nata in Italia …",
+    "Opzione A": "Futurismo",
+    "Opzione B": "Pop Art",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1476",
+    "Argomento": "Scienza",
+    "Domanda": "Un lemure del Madagascar …",
+    "Opzione A": "Pitta",
+    "Opzione B": "Catta",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1477",
+    "Argomento": "Storia",
+    "Domanda": "Idi Amin Dada fu dittatore …",
+    "Opzione A": "del Kenia",
+    "Opzione B": "dell'Uganda",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1478",
+    "Argomento": "Matematica",
+    "Domanda": "Con la X si indica l'asse delle …",
+    "Opzione A": "Ascisse",
+    "Opzione B": "Ordinate",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1479",
+    "Argomento": "Scienza",
+    "Domanda": "La fibra della canapa di calcutta …",
+    "Opzione A": "Lino",
+    "Opzione B": "Iuta",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1480",
+    "Argomento": "Arte",
+    "Domanda": "Rapporto tra 2 note di nome diverso ma di uguale altezza …",
+    "Opzione A": "Enarmonia",
+    "Opzione B": "Alterazione",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1481",
+    "Argomento": "Geografia",
+    "Domanda": "Ho più superficie fra queste 2 regioni …",
+    "Opzione A": "Basilicata",
+    "Opzione B": "Molise",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1482",
+    "Argomento": "Arte",
+    "Domanda": "Giorgio che fondò il Piccolo teatro di Milano …",
+    "Opzione A": "Gaber",
+    "Opzione B": "Strehler",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1483",
+    "Argomento": "Storia",
+    "Domanda": "Francesco Cossiga presidente della Repubblica era …",
+    "Opzione A": "DC",
+    "Opzione B": "PSI",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1484",
+    "Argomento": "Scienza",
+    "Domanda": "E' un pipistrello …",
+    "Opzione A": "Nottola",
+    "Opzione B": "Cottola",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1485",
+    "Argomento": "Scienza",
+    "Domanda": "Gli azuki sone vegetali simili ai …",
+    "Opzione A": "Fagioli",
+    "Opzione B": "Topinambur",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1486",
+    "Argomento": "Scienza",
+    "Domanda": "l'acido acetilsalicilico è il principio attivo …",
+    "Opzione A": "dell'Aspirina",
+    "Opzione B": "della Tachipirina",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1487",
+    "Argomento": "Sport",
+    "Domanda": "Ha il record di presenze con la maglia dell'Inter …",
+    "Opzione A": "Zanetti",
+    "Opzione B": "Mazzola",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1488",
+    "Argomento": "Varie",
+    "Domanda": "Sperlari è un famoso marchio di …",
+    "Opzione A": "Cremona",
+    "Opzione B": "Perugia",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1489",
+    "Argomento": "Varie",
+    "Domanda": "Sigla automobilistica TR …",
+    "Opzione A": "Terni",
+    "Opzione B": "Trento",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1490",
+    "Argomento": "Scienza",
+    "Domanda": "Un mammifero bianco e nero …",
+    "Opzione A": "Pinguino",
+    "Opzione B": "Orca",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1491",
+    "Argomento": "Storia",
+    "Domanda": "L'Olandese era il soprannome di un …",
+    "Opzione A": "Conquistatore",
+    "Opzione B": "Pirata",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1492",
+    "Argomento": "Arte",
+    "Domanda": "Il Bassista di Jovanotti è …",
+    "Opzione A": "Lunino",
+    "Opzione B": "Saturnino",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1493",
+    "Argomento": "Varie",
+    "Domanda": "Il formaggio più costoso al mondo il \"\"Pule\"\" è …",
+    "Opzione A": "Francese",
+    "Opzione B": "Serbo",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1494",
+    "Argomento": "Storia",
+    "Domanda": "Il riformatore Calvino vissuto nel XVI secolo …",
+    "Opzione A": "Giovanni",
+    "Opzione B": "Italo",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1495",
+    "Argomento": "Scienza",
+    "Domanda": "Dura di più la gestazione di …",
+    "Opzione A": "un Tricheco",
+    "Opzione B": "una Pantera",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1496",
+    "Argomento": "Geografia",
+    "Domanda": "E' un porto Spagnolo sul Mediterraneo …",
+    "Opzione A": "Valencia",
+    "Opzione B": "Vigo",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1497",
+    "Argomento": "Arte",
+    "Domanda": "La sirenetta del cartone Disney …",
+    "Opzione A": "Ariel",
+    "Opzione B": "Muriel",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1498",
+    "Argomento": "Scienza",
+    "Domanda": "In una \"\"stanza del sole\"\" viene praticata …",
+    "Opzione A": "Haloterapia",
+    "Opzione B": "Botrioterapia",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1499",
+    "Argomento": "Varie",
+    "Domanda": "Si gioca coi dadi …",
+    "Opzione A": "Dama Cinese",
+    "Opzione B": "Backgammon",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1500",
+    "Argomento": "Scienza",
+    "Domanda": "Va in letargo …",
+    "Opzione A": "Ghiro",
+    "Opzione B": "Lontra",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1501",
+    "Argomento": "Storia",
+    "Domanda": "Visse a cavallo tra XII e XIII secolo …",
+    "Opzione A": "Gengis Khan",
+    "Opzione B": "Maometto",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1502",
+    "Argomento": "Geografia",
+    "Domanda": "Era uno stato della ex Jugoslavia …",
+    "Opzione A": "Moldovia",
+    "Opzione B": "Montenegro",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1503",
+    "Argomento": "Letteratura",
+    "Domanda": "Il primo seguito de I tre moschettieri …",
+    "Opzione A": "10 anni dopo",
+    "Opzione B": "20 anni dopo",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1504",
+    "Argomento": "Sport",
+    "Domanda": "Fa parte del programma Olimpico …",
+    "Opzione A": "Kung Fu",
+    "Opzione B": "Taekwondo",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1505",
+    "Argomento": "Arte",
+    "Domanda": "L'amica di Heidi …",
+    "Opzione A": "Clara",
+    "Opzione B": "Tamara",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1506",
+    "Argomento": "Varie",
+    "Domanda": "Guardando la prua è il lato della barca detto babordo …",
+    "Opzione A": "Destro",
+    "Opzione B": "Sinistro",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1507",
+    "Argomento": "Scienza",
+    "Domanda": "Gli Aironi appartengono all'ordine dei …",
+    "Opzione A": "Gruiformi",
+    "Opzione B": "Pelicaniformi",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1508",
+    "Argomento": "Arte",
+    "Domanda": "Leo il figlio di Alessandro Gassmann è un …",
+    "Opzione A": "Attore",
+    "Opzione B": "Cantante",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1509",
+    "Argomento": "Storia",
+    "Domanda": "Nella guerra di secessione Americana erano vestiti di grigio i …",
+    "Opzione A": "Sudisti",
+    "Opzione B": "Nordisti",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1510",
+    "Argomento": "Varie",
+    "Domanda": "E' un anagramma di ortensia …",
+    "Opzione A": "Senatori",
+    "Opzione B": "Estraneo",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1511",
+    "Argomento": "Letteratura",
+    "Domanda": "L'autore dei libri con l'ispettore Coliandro …",
+    "Opzione A": "Andrea De Carlo",
+    "Opzione B": "Carlo Lucarelli",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1512",
+    "Argomento": "Scienza",
+    "Domanda": "La pianta di cui sono ghiotti i bachi da seta …",
+    "Opzione A": "Gelso",
+    "Opzione B": "Bambu",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1513",
+    "Argomento": "Varie",
+    "Domanda": "Una delle figlie di Michelle Hunziker si chiama …",
+    "Opzione A": "Luna",
+    "Opzione B": "Sole",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1514",
+    "Argomento": "Scienza",
+    "Domanda": "l'eparina è un farmaco …",
+    "Opzione A": "Vasodilatatore",
+    "Opzione B": "Anticoagulante",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1515",
+    "Argomento": "Storia",
+    "Domanda": "dal 1513 al 1972 tutti i re Danesi si sono chiamati Frederick o …",
+    "Opzione A": "Christian",
+    "Opzione B": "Hans",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1516",
+    "Argomento": "Scienza",
+    "Domanda": "L'ozono è formato da 3 atomi di …",
+    "Opzione A": "Azoto",
+    "Opzione B": "Ossigeno",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1517",
+    "Argomento": "Storia",
+    "Domanda": "La fortezza dello Spielberg dove fu imprigionato Pellico è a …",
+    "Opzione A": "Brno",
+    "Opzione B": "Vienna",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1518",
+    "Argomento": "Scienza",
+    "Domanda": "Le dita di una zampa di geco sono …",
+    "Opzione A": "3",
+    "Opzione B": "5",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1519",
+    "Argomento": "Arte",
+    "Domanda": "Il vero cognome di Walter Chiari era …",
+    "Opzione A": "Annicchiarico",
+    "Opzione B": "Girotti",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1520",
+    "Argomento": "Letteratura",
+    "Domanda": "Ne il Settimo sigillo è l'avversario a scacchi …",
+    "Opzione A": "la Morte",
+    "Opzione B": "la Fortuna",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1521",
+    "Argomento": "Varie",
+    "Domanda": "Un sinonimo di ramingo …",
+    "Opzione A": "Erratico",
+    "Opzione B": "Errabondo",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
   }
 ]
