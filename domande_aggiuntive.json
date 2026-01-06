@@ -565,5 +565,347 @@
     "Opzione B": "Errabondo",
     "Risposta Corretta": "B",
     "Livello": "Alto"
+  },
+  {
+    "ID": "1522",
+    "Argomento": "Scienza",
+    "Domanda": "Il cervelletto fa parte del sistema nervoso …",
+    "Opzione A": "Periferico",
+    "Opzione B": "Centrale",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1523",
+    "Argomento": "Arte",
+    "Domanda": "Il gruppo musicale Inti-Illimani è …",
+    "Opzione A": "Messicano",
+    "Opzione B": "Cileno",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1524",
+    "Argomento": "Geografia",
+    "Domanda": "L'Alhambra in Andalusia si trova a …",
+    "Opzione A": "Granada",
+    "Opzione B": "Cordova",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1525",
+    "Argomento": "Scienza",
+    "Domanda": "Possiamo trovare un Grongo in un …",
+    "Opzione A": "Lago",
+    "Opzione B": "Mare",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1526",
+    "Argomento": "Storia",
+    "Domanda": "\"\"So di non sapere\"\" è una frase di …",
+    "Opzione A": "Archimede",
+    "Opzione B": "Socrate",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1527",
+    "Argomento": "Letteratura",
+    "Domanda": "L'eroe greco Bellarofonte sconfisse …",
+    "Opzione A": "la Chimera",
+    "Opzione B": "il Minotauro",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1528",
+    "Argomento": "Varie",
+    "Domanda": "Un formaggio tipico tedesco è il …",
+    "Opzione A": "Brix",
+    "Opzione B": "Quark",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1529",
+    "Argomento": "Arte",
+    "Domanda": "La protagonista de La boheme di Puccini è …",
+    "Opzione A": "Mimì",
+    "Opzione B": "Violetta",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1530",
+    "Argomento": "Geografia",
+    "Domanda": "Capo Nord in Norvegia è gemellato con …",
+    "Opzione A": "Gela",
+    "Opzione B": "Pantelleria",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1531",
+    "Argomento": "Arte",
+    "Domanda": "La sorella attrice di Eduardo De Filippo è …",
+    "Opzione A": "Nunzia",
+    "Opzione B": "Titina",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1532",
+    "Argomento": "Storia",
+    "Domanda": "Al Capone fu arrestato per …",
+    "Opzione A": "Evasione fiscale",
+    "Opzione B": "Omicidio",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1533",
+    "Argomento": "Arte",
+    "Domanda": "Nel cartone Madagascar Kowalski è un …",
+    "Opzione A": "Lemure",
+    "Opzione B": "Pinguino",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1534",
+    "Argomento": "Varie",
+    "Domanda": "La \"\"C\"\" della sigla CISL …",
+    "Opzione A": "Cooperativa",
+    "Opzione B": "Confederazione",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1535",
+    "Argomento": "Varie",
+    "Domanda": "Nel bresciano ordiniamo un \"\"pirlo\"\" a un …",
+    "Opzione A": "Barman",
+    "Opzione B": "Panettiere",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1536",
+    "Argomento": "Arte",
+    "Domanda": "Ti scaterò una foto è la colonna sonora di …",
+    "Opzione A": "Baciami ancora",
+    "Opzione B": "Ho voglia di te",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1537",
+    "Argomento": "Scienza",
+    "Domanda": "La pianta aromatica detta anche serpillo …",
+    "Opzione A": "Origano",
+    "Opzione B": "Timo",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1538",
+    "Argomento": "Varie",
+    "Domanda": "La lingua più parlata nell'emisfero australe è …",
+    "Opzione A": "il Portoghese",
+    "Opzione B": "l'Inglese",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1539",
+    "Argomento": "Geografia",
+    "Domanda": "La bandiera con un Leone …",
+    "Opzione A": "Sierra leone",
+    "Opzione B": "Sri lanka",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1540",
+    "Argomento": "Geografia",
+    "Domanda": "L'isola più estesa delle Canarie è …",
+    "Opzione A": "Tenerife",
+    "Opzione B": "Gran Canaria",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1541",
+    "Argomento": "Sport",
+    "Domanda": "Il primo portoghese che ha vinto il pallone d'oro è …",
+    "Opzione A": "Eusebio",
+    "Opzione B": "Di Stefano",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1542",
+    "Argomento": "Varie",
+    "Domanda": "Il Tognazzi marito di Simona Izzo …",
+    "Opzione A": "GianMarco",
+    "Opzione B": "Ricky",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1543",
+    "Argomento": "Scienza",
+    "Domanda": "Girano attorno al nucleo dell'atomo …",
+    "Opzione A": "Protoni",
+    "Opzione B": "Elettroni",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1544",
+    "Argomento": "Scienza",
+    "Domanda": "Il fiore degli agrumi …",
+    "Opzione A": "Zigoma",
+    "Opzione B": "Zagara",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1545",
+    "Argomento": "Arte",
+    "Domanda": "Una casa editrice con sede a Bari …",
+    "Opzione A": "Laterza",
+    "Opzione B": "Giunti",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1546",
+    "Argomento": "Scienza",
+    "Domanda": "Quale animale è dotato di patagio …",
+    "Opzione A": "Pipistrello",
+    "Opzione B": "Formichiere",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1547",
+    "Argomento": "Varie",
+    "Domanda": "Un tipo di similpelle …",
+    "Opzione A": "Skai",
+    "Opzione B": "Gres",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1548",
+    "Argomento": "Arte",
+    "Domanda": "La prima edizione el festival di Sanremo fu nel …",
+    "Opzione A": "1951",
+    "Opzione B": "1956",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1549",
+    "Argomento": "Scienza",
+    "Domanda": "La materia prima della carta è la …",
+    "Opzione A": "Cellulosa",
+    "Opzione B": "Celluloide",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1550",
+    "Argomento": "Storia",
+    "Domanda": "Galileo Galilei insegnò a …",
+    "Opzione A": "Padova",
+    "Opzione B": "Bologna",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1551",
+    "Argomento": "Varie",
+    "Domanda": "Gragnano in Campania è la città della …",
+    "Opzione A": "Mozzarella",
+    "Opzione B": "Pasta",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1552",
+    "Argomento": "Scienza",
+    "Domanda": "Fertilizzante naturale formato da escrementi di uccelli …",
+    "Opzione A": "Guano",
+    "Opzione B": "Guappo",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1553",
+    "Argomento": "Letteratura",
+    "Domanda": "E' una figura retorica …",
+    "Opzione A": "Zeugma",
+    "Opzione B": "Magma",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1554",
+    "Argomento": "Storia",
+    "Domanda": "E' eletto papa Joseph Ratzinger …",
+    "Opzione A": "2001",
+    "Opzione B": "2005",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1555",
+    "Argomento": "Varie",
+    "Domanda": "La contrada di Siena che non vince da più tempo è detta …",
+    "Opzione A": "Vedova",
+    "Opzione B": "Nonna",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1556",
+    "Argomento": "Letteratura",
+    "Domanda": "Paddington il personaggio della letteratura per bambini è un …",
+    "Opzione A": "Orso",
+    "Opzione B": "Coniglio",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1557",
+    "Argomento": "Varie",
+    "Domanda": "Un elemento della testata di un giornale …",
+    "Opzione A": "Manchette",
+    "Opzione B": "Mannequin",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1558",
+    "Argomento": "Geografia",
+    "Domanda": "Tra gli altri stati la Georgia confina anche con …",
+    "Opzione A": "Kazakistan",
+    "Opzione B": "Turchia",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1559",
+    "Argomento": "Varie",
+    "Domanda": "I militari della guardia di finanza sono detti …",
+    "Opzione A": "Fiamme oro",
+    "Opzione B": "Fiamme gialle",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
   }
 ]
