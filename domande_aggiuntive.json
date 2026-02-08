@@ -43,5 +43,365 @@
     "Opzione B": "Ghitta",
     "Risposta Corretta": "A",
     "Livello": "Basso"
+  },
+  {
+    "ID": "1656",
+    "Argomento": "Arte",
+    "Domanda": "Il caffè della Peppina vinse la 13a edizione dello Zecchino d'Oro nel …",
+    "Opzione A": "1962",
+    "Opzione B": "1971",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1657",
+    "Argomento": "Matematica",
+    "Domanda": "In un triangolo convergono nel baricentro le …",
+    "Opzione A": "Altezze",
+    "Opzione B": "Mediane",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1658",
+    "Argomento": "Varie",
+    "Domanda": "A parità di peso ha più proteine …",
+    "Opzione A": "Salmone affumicato",
+    "Opzione B": "Carne essiccata",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1659",
+    "Argomento": "Sport",
+    "Domanda": "Per l'esercizio di pull-up in palestra si utilizza …",
+    "Opzione A": "la Sbarra",
+    "Opzione B": "il Bilanciere",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1660",
+    "Argomento": "Geografia",
+    "Domanda": "L'insieme dei nomi di Vie e Piazze …",
+    "Opzione A": "Odonomastica",
+    "Opzione B": "Estradimastica",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1661",
+    "Argomento": "Scienza",
+    "Domanda": "Le batterie AAA hanno …",
+    "Opzione A": "1,5 volt",
+    "Opzione B": "3 volt",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1662",
+    "Argomento": "Arte",
+    "Domanda": "Un famoso marinaio di nome Corto …",
+    "Opzione A": "Malese",
+    "Opzione B": "Maltese",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1663",
+    "Argomento": "Scienza",
+    "Domanda": "Il muscolo quadricipite si trova …",
+    "Opzione A": "nella Coscia",
+    "Opzione B": "nel Braccio",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1664",
+    "Argomento": "Varie",
+    "Domanda": "Una Modista confeziona …",
+    "Opzione A": "Abiti",
+    "Opzione B": "Cappelli",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1665",
+    "Argomento": "Geografia",
+    "Domanda": "L'isola al largo dell'India …",
+    "Opzione A": "Sri Lanka",
+    "Opzione B": "Borneo",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1666",
+    "Argomento": "Arte",
+    "Domanda": "Viene pubblicato l'album Thriller …",
+    "Opzione A": "1977",
+    "Opzione B": "1982",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1667",
+    "Argomento": "Varie",
+    "Domanda": "La tisana di Malva ha proprietà …",
+    "Opzione A": "Tonificanti",
+    "Opzione B": "Rilassanti",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1668",
+    "Argomento": "Sport",
+    "Domanda": "Un modello sportivo dell'Audi …",
+    "Opzione A": "PP",
+    "Opzione B": "TT",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1669",
+    "Argomento": "Arte",
+    "Domanda": "La protagonista del film Grease 2 …",
+    "Opzione A": "Olivia Newton John",
+    "Opzione B": "Michelle Pfeiffer",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1670",
+    "Argomento": "Scienza",
+    "Domanda": "E' un legume …",
+    "Opzione A": "Cicerchia",
+    "Opzione B": "Bamberghia",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1671",
+    "Argomento": "Arte",
+    "Domanda": "Il Genere nato dal romanzo Nueromate …",
+    "Opzione A": "Cyberpunk",
+    "Opzione B": "Techno-Thriller",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1672",
+    "Argomento": "Arte",
+    "Domanda": "Dipinse la maja desnuda …",
+    "Opzione A": "Camille Pissarro",
+    "Opzione B": "Francisco Goya",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1673",
+    "Argomento": "Sport",
+    "Domanda": "La città della squadra calcistica Pro Patria …",
+    "Opzione A": "Busto Arsizio",
+    "Opzione B": "Lodi",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1674",
+    "Argomento": "Storia",
+    "Domanda": "Il primo giorno del mese per gli antichi romani …",
+    "Opzione A": "Idi",
+    "Opzione B": "Calende",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1675",
+    "Argomento": "Arte",
+    "Domanda": "E' noto come Aquila della notte …",
+    "Opzione A": "Tex",
+    "Opzione B": "Zagor",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1676",
+    "Argomento": "Arte",
+    "Domanda": "Ha diretto nel 2005 La guerra dei mondi …",
+    "Opzione A": "Spielberg",
+    "Opzione B": "Lucas",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1677",
+    "Argomento": "Arte",
+    "Domanda": "Lo stilista con l'Aquila …",
+    "Opzione A": "Coveri",
+    "Opzione B": "Armani",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1678",
+    "Argomento": "Storia",
+    "Domanda": "La torre di Belem è una fortificazione che si trova a …",
+    "Opzione A": "Barcellona",
+    "Opzione B": "Lisbona",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1679",
+    "Argomento": "Storia",
+    "Domanda": "Fu un patriota irredentista …",
+    "Opzione A": "Cesare Lauzi",
+    "Opzione B": "Cesare Battisti",
+    "Risposta Corretta": "B",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1680",
+    "Argomento": "Sport",
+    "Domanda": "Lo sport affine alle majorette …",
+    "Opzione A": "Twirling",
+    "Opzione B": "Twerking",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1681",
+    "Argomento": "Geografia",
+    "Domanda": "E' uno stato indipendente nel Golfo del Persico …",
+    "Opzione A": "Quatar",
+    "Opzione B": "Dubai",
+    "Risposta Corretta": "A",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1682",
+    "Argomento": "Arte",
+    "Domanda": "Il genere letterario di Camilla Lackberg …",
+    "Opzione A": "Poliziesco",
+    "Opzione B": "Rosa",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1683",
+    "Argomento": "Varie",
+    "Domanda": "Un cane con la lingua color blu scuro …",
+    "Opzione A": "Terranova",
+    "Opzione B": "Chow Chow",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1684",
+    "Argomento": "Varie",
+    "Domanda": "E' un paramento usato dal Socerdote in certe circostanze …",
+    "Opzione A": "Piviale",
+    "Opzione B": "Triviale",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1685",
+    "Argomento": "Scienza",
+    "Domanda": "La vitamina che favorisce l'assorbimento di calcio …",
+    "Opzione A": "C",
+    "Opzione B": "D",
+    "Risposta Corretta": "B",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1686",
+    "Argomento": "Varie",
+    "Domanda": "Altro nome della spigola …",
+    "Opzione A": "Orata",
+    "Opzione B": "Branzino",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1687",
+    "Argomento": "Scienza",
+    "Domanda": "Il liquido contenuto nelle cavità articolari …",
+    "Opzione A": "Caviola",
+    "Opzione B": "Sinovia",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1688",
+    "Argomento": "Varie",
+    "Domanda": "E' detto anche \"\"diospiro\"\" …",
+    "Opzione A": "Nespola",
+    "Opzione B": "Cachi",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1689",
+    "Argomento": "Sport",
+    "Domanda": "I tempi di una partita di pallanuoto durano …",
+    "Opzione A": "7 minuti",
+    "Opzione B": "10 minuti",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1690",
+    "Argomento": "Varie",
+    "Domanda": "In Giappone viene commercializzato Pac-Man …",
+    "Opzione A": "1980",
+    "Opzione B": "1983",
+    "Risposta Corretta": "A",
+    "Livello": "Alto"
+  },
+  {
+    "ID": "1691",
+    "Argomento": "Arte",
+    "Domanda": "A Londra in Baker Street c'è la residenza di …",
+    "Opzione A": "Frankenstein",
+    "Opzione B": "Sherlock Holmes",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1692",
+    "Argomento": "Varie",
+    "Domanda": "Tante le freccie bianche nel cartello blu che indicano una rotonda …",
+    "Opzione A": "3",
+    "Opzione B": "4",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1693",
+    "Argomento": "Geografia",
+    "Domanda": "La Transnistria è una regione della …",
+    "Opzione A": "Polonia",
+    "Opzione B": "Moldavia",
+    "Risposta Corretta": "B",
+    "Livello": "Medio"
+  },
+  {
+    "ID": "1694",
+    "Argomento": "Varie",
+    "Domanda": "Opificio è sinonimo di …",
+    "Opzione A": "Fabbica",
+    "Opzione B": "Fattoria",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
+  },
+  {
+    "ID": "1695",
+    "Argomento": "Varie",
+    "Domanda": "Ha la sede storica ad Alba nel Cuneese …",
+    "Opzione A": "Ferrero",
+    "Opzione B": "Bauli",
+    "Risposta Corretta": "A",
+    "Livello": "Basso"
   }
 ]
